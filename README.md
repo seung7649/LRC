@@ -1,6 +1,9 @@
 Data for "Sparse long-range connections in visual cortex for cost-efficient small-world networks" 
 Seungdae Baek, Youngjin Park, and Se-Bum Paik*
 
+*Contact: sbpaik@kaist.ac.kr
+
+
 Modified MNIST datasets
 
 To separately examine the contribution of high and low-frequency information contained in sample images, we designed three types of modified MNIST datasets. Details are as follows:
